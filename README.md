@@ -6,6 +6,10 @@
 -   Studentennummer: 202291428
 -   E-mailadres: <mailto:jules.goubert@student.hogent.be>
 
+## Omschrijving
+
+Voor het bouwen van de API maakte ik gebruik van het Koa framework voor NodeJS. De API omvat een CRUD laag die connectie maakt met een MySQL databank (met de knex querybuilder), integratietesten (met jest), invoervalidatie (met joi) en authenticatie en autorisatie (met JWT).
+
 ## Vereisten
 
 Ik verwacht dat volgende software reeds geïnstalleerd is:
